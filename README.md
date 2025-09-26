@@ -5,6 +5,9 @@ ncaa_reg is a collection of regular-season data since the 2001 season.
 ncaa_results is a collection of results from march-madness games between 1985 and 2016.
 Therefore, the overlap is 2001-2016
 
+To run, rename ncaa_results (1).csv
+to ncaa_results.csv
+
 
 
       
